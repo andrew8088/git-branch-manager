@@ -11,8 +11,6 @@ program.parse(process.argv);
 
 const options = program.opts();
 
-console.log(options);
-
 let command = undefined;
 
 if (options.update) {
