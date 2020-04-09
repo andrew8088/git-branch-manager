@@ -1,0 +1,11 @@
+{
+  "name": "git-branch-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Burgess <andrew@burgess.io>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "enquirer": "^2.3.5"
+  }
+}
