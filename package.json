@@ -1,5 +1,5 @@
 {
-  "name": "git-branch-manager",
+  "name": "git-branch-utils",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Andrew Burgess <andrew@burgess.io>",
